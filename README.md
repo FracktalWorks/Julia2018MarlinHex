@@ -1,4 +1,5 @@
-# Julia2018MarlinHex
+# Julia2018MarlinHex 
+[![Build Status](https://travis-ci.com/FracktalWorks/Julia2018Marlin119.svg?branch=1.1.9)](https://travis-ci.com/FracktalWorks/Julia2018Marlin119)
 Hex files for Julia2018Marlin
 
 ---
