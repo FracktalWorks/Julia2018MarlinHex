@@ -1,6 +1,6 @@
-# Julia2018MarlinHex  [![Build Status](https://travis-ci.com/FracktalWorks/Julia2018Marlin119.svg?branch=1.1.9)](https://travis-ci.com/FracktalWorks/Julia2018Marlin119)
-Hex files for Julia2018Marlin
-
+# Julia2018MarlinHex
+Hex files for Julia2018Marlin    
+ [![Build Status](https://travis-ci.com/FracktalWorks/Julia2018Marlin119.svg?branch=1.1.9)](https://travis-ci.com/FracktalWorks/Julia2018Marlin119)
 ---
 
 ## Machine Variants
@@ -15,3 +15,5 @@ Hex files for Julia2018Marlin
 | Julia Pro Dual           | JULIA_2018_PRO_DUAL        | J18PD      | 5          |
 | Julia Pro Single ABL     | JULIA_2018_PRO_SINGLE_A    | J18PT      | 6          |
 | Julia Pro Dual ABL       | JULIA_2018_PRO_DUAL_A      | J18PE      | 7          |
+| Julia Pro Single ABL 24V | JULIA_2018_PRO_SINGLE_A24  | J18PU      | 8          |
+| Julia Pro Dual ABL 24V   | JULIA_2018_PRO_DUAL_A24    | J18PF      | 9          |
